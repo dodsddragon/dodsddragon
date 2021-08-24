@@ -2,4 +2,4 @@
 - 👀 I’m interested in IT, Motorcycle, Travel and Online Gaming (CSGO and other games)
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on .NET and Flutter
-- 📫 How to reach me: https://www.linkedin.com/in/dhouglas-lombello-80861021/
+- 📫 How to reach me: https://www.linkedin.com/in/dhouglas-lombello
